@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Marisa
+- 🌱 I’m currently learning SQL and Tableau, soon Python.
+- 💞️ I’m looking to collaborate on data analysis projects, learn new stuff and am excited to break into tech world.
+- 📫 How to reach me: marisagaytan47@gmail.com
